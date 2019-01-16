@@ -1,7 +1,7 @@
 # gimtask
 Gimtask is a collaboration tool designed to help teams track all work activities by workflow
 Gimtask has many features which help your business done faster and manage tasks better
-Demo here: <a href="htpps://gimtask.com">Gimtask</a>
+Demo here: htpps://gimtask.com
 Gimtask Features:
 - Allow custom fields with more than 20 field types
 - Custom screen which let you to place fields on any position for inputting data
